@@ -45,8 +45,22 @@ _Una vez con el proyecto en su equipo local, debera de moverlo a la carpeta corr
 - Debera de copiar la carpeta del proyecto y dirigirse a sus documentos, 
   seguido de esto pegar dicha carpeta dentro de NetBeansProjects.
 ```
+_Luego de copiar el proyecto en su raiz de proyectos, debera:_
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+```
+- Abrir NetBeans IDE y esperar que se escaneen los archivos necesarios, luego 
+  de esto debera importarlo desde el menu de archivos --> importar proyecto,
+  con esto deberia bastar para tener ya el proyecto a su disposicion.
+```
+_Para finalizar debera de limpiar y construir de nuevo el proyecto:_
+
+```
+- Para esto debera ir al menu Run --> Clean and Build Project, y de esta forma
+-  tendra el proyecto totalmente limpio en su equipo local.
+```
+
+_Finalmente para darle uso bastara con correr el proyecto, siempre que genere un **Clean and Build** en la carpeta StableBTQ1.0 se generar un ejecutable con
+los cambios realizados si llegase a realizarce alguno... _
 
 ## Ejecutando las pruebas ⚙️
 
