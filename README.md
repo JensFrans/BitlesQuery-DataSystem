@@ -1,25 +1,34 @@
-# Título del Proyecto
+# BitlesQuery DataSystem
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_BitlesQuery, es un Software orientado a gestion de datos e informacion estudiantil en general, el mismo administra los datos mediante una base de datos local. Este cuenta con diversas funciones en si, desde gestion de Asignaturas hasta reportes generales o individuales de registros previos, todo esto de una forma sencilla e incluso eficaz._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia del proyecto o bien un ejecutable en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Detalla como importar proyectos a **NetBeans** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Antes de proceder con la instalacion de la **App** se debe de contar con el siguiente Software_
 
 ```
-Da un ejemplo
+- Java SE 1.8.
+- Xampp Server.
+```
+
+_En dado caso que se desee descargar el codigo base, debe de contar con un **IDE** especifico para **Java**, como puede ser_
+
+```
+- IDE Apache NetBeans (de preferencia).
+- Eclipse.
+- IntelliJ Idea.
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Por el momento no se cuenta con un instalador en general, sin embargo en los archivos del software se encuentra un ejecutable en una version estable(StableBTQ1.0)_
 
 _Dí cómo será ese paso_
 
