@@ -30,16 +30,20 @@ _En dado caso que se desee descargar el codigo base, debe de contar con un **IDE
 
 _Por el momento no se cuenta con un instalador en general, sin embargo en los archivos del software se encuentra un ejecutable en una version estable(StableBTQ1.0)_
 
-_Dí cómo será ese paso_
+_En dado caso se explicara de forma sencillo como se deberia de importar el proyecto a **NetBeans IDE**, en caso de usar otro **IDE**, no deberia cambiar mucho..._
+
+_Primero debera descargar el proyecto en un [comprimido](https://github.com/JensFrans/BitlesQuery-DataSystem/archive/refs/heads/master.zip), seguido de esto debera:_
 
 ```
-Da un ejemplo
+- Descomprimirlo en el lugar de la descarga, una vez hecho esto lo 
+  siguiente dependera del IDE que usara para desplegar el proyecto.
 ```
 
-_Y repite_
+_Una vez con el proyecto en su equipo local, debera de moverlo a la carpeta correspodiente de **proyectos** de su **IDE**, en caso de **NetBeans IDE**:_
 
 ```
-hasta finalizar
+- Debera de copiar la carpeta del proyecto y dirigirse a sus documentos, 
+  seguido de esto pegar dicha carpeta dentro de NetBeansProjects.
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
