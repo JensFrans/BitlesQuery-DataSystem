@@ -1,4 +1,4 @@
-# BitlesQuery DataSystem
+# BitlesQuery DataSystem 📬
 
 _BitlesQuery, es un Software orientado a gestion de datos e informacion estudiantil en general, el mismo administra los datos mediante una base de datos local. Este cuenta con diversas funciones en si, desde gestion de Asignaturas hasta reportes generales o individuales de registros previos, todo esto de una forma sencilla e incluso eficaz._
 
@@ -60,73 +60,57 @@ _Para finalizar debera de limpiar y construir de nuevo el proyecto:_
 ```
 
 _Finalmente para darle uso bastara con correr el proyecto, siempre que genere un **Clean and Build** en la carpeta StableBTQ1.0 se generar un ejecutable con
-los cambios realizados si llegase a realizarce alguno... _
+los cambios realizados si llegase a realizar alguno..._
 
-## Ejecutando las pruebas ⚙️
+## Modding para usos generales en proyectos similares ⚙️ 
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Este software esta bajo La licencia GNU GPL (GNU General Public License 🔩)._
 
-### Analice las pruebas end-to-end 🔩
+_Por lo tanto los usuarios son libres para usarlo, acceder al código fuente,
+modificarlo y distribuir los cambios; siempre que redistribuyan el programa
+completo (modificado o no modificado) bajo la misma licencia._
 
-_Explica que verifican estas pruebas y por qué_
+## Versiones estables 📦
 
-```
-Da un ejemplo
-```
+_Actualmente se cuenta con una version stable 1.0, la cual esta en apto uso para un ambito de trabajo general enfocado a los aspectos del sotfware. Sin embargo la misma carece de algunas funciones no tan importantes por el momento..._
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+_Proximamente nuevas versiones con mayores funcionalidades integradas..._
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+BitlesQuery ha sido desarrollado con las siguientes herramientas de desarrollo:
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Java 1.8](https://www.java.com/es/download/ie_manual.jsp) - Lenguaje de programacion usado.
+* [Apache NetBeans IDE](https://netbeans.apache.org/) - Entorno de desarrollo orientado a java.
+* [Xampp Server](https://www.apachefriends.org/es/index.html) - Manejador de bases de datos localmente.
 
-## Contribuyendo 🖇️
+## Contribucion 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Este proyecto a sido desarrollado en conjunto con compañeros de estudio como un proyecto socio-productivo de beneficio para la Institucion "E.T.C Simón Rodríguez".
 
-## Wiki 📖
+## Wiki - Manual de Desarrollador 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto y manejar sus componentes en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Pronto se estableceran tags para predifinir todas las versiones disponibles en estado **estable**, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Desarrollador y Diseñador de Interfaz UI_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **JeanFranco Parra** - *Desarrollador* - [JensFrans](https://github.com/JensFrans)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GNU General Public License 📑) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
+## Si este proyecto fue de tu interes no olvides compartirlo y dar a conocer tu experiencia con el 📢
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Esto es todo por el momento hasta la proxima! ☕
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [JensFrans](https://github.com/JensFrans) 🤓
