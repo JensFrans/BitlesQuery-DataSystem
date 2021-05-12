@@ -94,7 +94,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto y manejar sus compon
 
 ## Versionado 📌
 
-Pronto se estableceran tags para predifinir todas las versiones disponibles en estado **estable**, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Pronto se estableceran tags para predifinir todas las versiones disponibles en estado **estable**, mira los [tags en este repositorio](https://github.com/JensFrans/BitlesQuery-DataSystem/releases).
 
 ## Autores ✒️
 
