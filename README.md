@@ -70,32 +70,32 @@ _Por lo tanto los usuarios son libres para usarlo, acceder al código fuente,
 modificarlo y distribuir los cambios; siempre que redistribuyan el programa
 completo (modificado o no modificado) bajo la misma licencia._
 
-## Configuracion de Software final 📦
+## Configuracion del Software final 📦
 
 _Si desea obtener tan solo el software para su uso, debera configurar un unico aspecto antes de proceder con ciertas actividades en el mismo..._
 
 _Entonces debera de obtener un comprimido de la ultima version del software, puede descargarlo observando los [tags en este repositorio](https://github.com/JensFrans/BitlesQuery-DataSystem/releases). Dentro de este se encuentra un ejecutable .jar y un archivo de configuracion de base de datos referente a los pasos a seguir para el funcionamiento del software._
 
-Primero debe de saber que este software funciona mediante una base de datos local, por lo tanto debe de instalar previamente Xampp Server para crear e importar dicha base de datos.
+_Primero debe de saber que este software funciona mediante una base de datos local, por lo tanto debe de instalar previamente Xampp Server para crear e importar dicha base de datos._
 
 ```
-Para esto simplemente debera de instalar Xampp Sever y habilitar los servicios de Apache y MySql
+- Para esto simplemente debera de instalar Xampp Sever y habilitar los servicios de Apache y MySql
 
 ```
 Luego de esto, debera de abrir PHPMyAdmin para la creacion de la base de datos
 
 ```
-Puede acceder a este sitio web local desde el propio panel de Xampp server o escribiendo directamente
+- Puede acceder a este sitio web local desde el propio panel de Xampp server o escribiendo directamente
 la siguiente URL http://localhost/phpmyadmin/
 
 ```
 Ahora crearemos la base de datos
 
 ```
-Este aspecto no tiene perdida, en la pagina web local de PHPMyAdmin justamente en el panel izquierdo donde se especificican 
+- Este aspecto no tiene perdida, en la pagina web local de PHPMyAdmin justamente en el panel izquierdo donde se especificican 
 las bases de datos existentes, se resalta una opcion llamada **Nueva** este es para crear una base de datos.
 
-Una vez haga click sobre este boton, cargara un portal donde debe siministrar el nombre de la base de datos, el cual sera 
+- Una vez haga click sobre este boton, cargara un portal donde debe siministrar el nombre de la base de datos, el cual sera 
 " bd_ds " y seleccionara un cotejamiento UTF8_unicode_ci, para finalizar debe de hacer click en crear.
 
 ```
@@ -103,20 +103,20 @@ Una vez haga click sobre este boton, cargara un portal donde debe siministrar el
 Por ultimo importaremos el archivo de configuracion de base de datos
 
 ```
-luego de crear la base de datos, en la parte superior de la pagina dara click en el boton de importar, se mostrara un menu con 
+- luego de crear la base de datos, en la parte superior de la pagina dara click en el boton de importar, se mostrara un menu con 
 especificaciones, tan solo debe de hacer click en seleccionar archivo y buscar e abrir el archivo de configuracion hallado en el .rar antes descargado.
 
-Una vez seleccionado debera bajar hasta el pie de pagina y pulsar en el boton continuar, si tocar ningun otro aspecto de la pagina...
+- Una vez seleccionado debera bajar hasta el pie de pagina y pulsar en el boton continuar, si tocar ningun otro aspecto de la pagina...
 
-La importacion tan solo dura unos segundos y con esto queda totalmente funcional la base de datos.
+- La importacion tan solo dura unos segundos y con esto queda totalmente funcional la base de datos.
 
 ```
 _Y de esta forma ya podra usar el Software en su totalidad, tan solo tendria que ejecutar el .jar encontrado en el comprimido..._
 
 ```
-Por el momento el ingreso al sistema del software esta restringido por usos de la institucion "E.T.C. Simón Rodríguez"
+- Por el momento el ingreso al sistema del software esta restringido por usos de la institucion "E.T.C. Simón Rodríguez"
 
-En una futura version(v2.0), se integrar un usuario Administrador base para ingresar al mismo, de momento de conservara asi...
+- En una futura version(v2.0), se integrar un usuario Administrador base para ingresar al mismo, de momento de conservara asi...
 
 ```
 
@@ -158,4 +158,4 @@ Este proyecto está bajo la Licencia (GNU General Public License 📑) - mira el
 
 
 ---
-⌨️ con ❤️ por [JensFrans](https://github.com/JensFrans) 🤓
+⌨️ con ❤️ por [JensFrans](https://github.com/JensFrans) 🙂
