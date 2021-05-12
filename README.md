@@ -56,7 +56,7 @@ _Para finalizar debera de limpiar y construir de nuevo el proyecto:_
 
 ```
 - Para esto debera ir al menu Run --> Clean and Build Project, y de esta forma
--  tendra el proyecto totalmente limpio en su equipo local.
+  tendra el proyecto totalmente limpio en su equipo local.
 ```
 
 _Finalmente para darle uso bastara con correr el proyecto, siempre que genere un **Clean and Build** en la carpeta StableBTQ1.0 se generar un ejecutable con
@@ -70,11 +70,55 @@ _Por lo tanto los usuarios son libres para usarlo, acceder al código fuente,
 modificarlo y distribuir los cambios; siempre que redistribuyan el programa
 completo (modificado o no modificado) bajo la misma licencia._
 
-## Versiones estables 📦
+## Configuracion de Software final 📦
 
-_Actualmente se cuenta con una version stable 1.0, la cual esta en apto uso para un ambito de trabajo general enfocado a los aspectos del sotfware. Sin embargo la misma carece de algunas funciones no tan importantes por el momento..._
+_Si desea obtener tan solo el software para su uso, debera configurar un unico aspecto antes de proceder con ciertas actividades en el mismo..._
 
-_Proximamente nuevas versiones con mayores funcionalidades integradas..._
+_Entonces debera de obtener un comprimido de la ultima version del software, puede descargarlo observando los [tags en este repositorio](https://github.com/JensFrans/BitlesQuery-DataSystem/releases). Dentro de este se encuentra un ejecutable .jar y un archivo de configuracion de base de datos referente a los pasos a seguir para el funcionamiento del software._
+
+Primero debe de saber que este software funciona mediante una base de datos local, por lo tanto debe de instalar previamente Xampp Server para crear e importar dicha base de datos.
+
+```
+Para esto simplemente debera de instalar Xampp Sever y habilitar los servicios de Apache y MySql
+
+```
+Luego de esto, debera de abrir PHPMyAdmin para la creacion de la base de datos
+
+```
+Puede acceder a este sitio web local desde el propio panel de Xampp server o escribiendo directamente
+la siguiente URL http://localhost/phpmyadmin/
+
+```
+Ahora crearemos la base de datos
+
+```
+Este aspecto no tiene perdida, en la pagina web local de PHPMyAdmin justamente en el panel izquierdo donde se especificican 
+las bases de datos existentes, se resalta una opcion llamada **Nueva** este es para crear una base de datos.
+
+Una vez haga click sobre este boton, cargara un portal donde debe siministrar el nombre de la base de datos, el cual sera 
+" bd_ds " y seleccionara un cotejamiento UTF8_unicode_ci, para finalizar debe de hacer click en crear.
+
+```
+
+Por ultimo importaremos el archivo de configuracion de base de datos
+
+```
+luego de crear la base de datos, en la parte superior de la pagina dara click en el boton de importar, se mostrara un menu con 
+especificaciones, tan solo debe de hacer click en seleccionar archivo y buscar e abrir el archivo de configuracion hallado en el .rar antes descargado.
+
+Una vez seleccionado debera bajar hasta el pie de pagina y pulsar en el boton continuar, si tocar ningun otro aspecto de la pagina...
+
+La importacion tan solo dura unos segundos y con esto queda totalmente funcional la base de datos.
+
+```
+_Y de esta forma ya podra usar el Software en su totalidad, tan solo tendria que ejecutar el .jar encontrado en el comprimido..._
+
+```
+Por el momento el ingreso al sistema del software esta restringido por usos de la institucion "E.T.C. Simón Rodríguez"
+
+En una futura version(v2.0), se integrar un usuario Administrador base para ingresar al mismo, de momento de conservara asi...
+
+```
 
 ## Construido con 🛠️
 
@@ -100,16 +144,17 @@ Pronto se estableceran tags para predifinir todas las versiones disponibles en e
 
 _Desarrollador y Diseñador de Interfaz UI_
 
-* **JeanFranco Parra** - *Desarrollador* - [JensFrans](https://github.com/JensFrans)
+* **JeanFranco Parra** - *Estudiante 📘* - [JensFrans](https://github.com/JensFrans)
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (GNU General Public License 📑) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
+
 ## Si este proyecto fue de tu interes no olvides compartirlo y dar a conocer tu experiencia con el 📢
 
-* Esto es todo por el momento hasta la proxima! ☕
 
+* Esto es todo por el momento hasta la proxima! ☕
 
 
 ---
