@@ -1,6 +1,8 @@
-# BitlesQuery DataSystem 📬
+![no74Mesa de trabajo 1](https://user-images.githubusercontent.com/49564437/118214168-41825f80-b43d-11eb-83fa-ec382936b6cf.png)
 
-_BitlesQuery, es un Software orientado a gestion de datos e informacion estudiantil en general, el mismo administra los datos mediante una base de datos local. Este cuenta con diversas funciones en si, desde gestion de Asignaturas hasta reportes generales o individuales de registros previos, todo esto de una forma sencilla e incluso eficaz._
+#
+
+_BitlesQuery 📬, es un Software orientado a gestion de datos e informacion estudiantil en general, el mismo administra los datos mediante una base de datos local. Este cuenta con diversas funciones en si, desde gestion de Asignaturas hasta reportes generales o individuales de registros previos, todo esto de una forma sencilla e incluso eficaz._
 
 ## Comenzando 🚀
 
